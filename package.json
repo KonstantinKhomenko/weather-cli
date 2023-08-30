@@ -17,6 +17,7 @@
   "author": "Konstantin Khomenko",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.3.0"
+    "chalk": "^5.3.0",
+    "dedent-js": "^1.0.1"
   }
 }
